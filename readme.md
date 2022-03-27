@@ -33,6 +33,7 @@ Facebook: <i>[Click here](https://www.facebook.com/profile.php?id=10001566961460
 <br>
 Discord: <i>L1GHT#4003</i>
 
+## Extra stuff
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1GHT1DK&theme=dark">
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=L1GHT1DK&count_private=true&show_icons=true&theme=dark&layout=compact">
