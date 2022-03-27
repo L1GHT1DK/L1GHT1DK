@@ -1,6 +1,8 @@
 ## Welcome, I'm L1GHT
 <a href="https://l1ght1dk.github.io/"><img src="https://img.shields.io/badge/-Website-ff00ff?style=flat&logo=CodeSandbox&logoColor=white"/></a>
-<b><u>About Me</b></u>
+<br>
+<br>
+### About Me
 <br>
 <i>15yo, from Denmark, don't really play that much anymore...</i>
 <br>
@@ -23,6 +25,7 @@ Microphone: <i>HyperX Quadcast</i>
 <br>
 
 <b><u>Socials</b></u>
+<br>
 Steam: <i>[Click here](https://steamcommunity.com/id/L1GHT1DK/)</i>
 <br>
 Twitch: <i>[Click here](https://www.twitch.tv/l1ght1dk)</i>
