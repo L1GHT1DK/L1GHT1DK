@@ -2,10 +2,10 @@
 <a href="https://l1ght1dk.github.io/"><img src="https://img.shields.io/badge/-Website-ff00ff?style=flat&logo=CodeSandbox&logoColor=white"/></a>
 <br>
 <br>
-### About Me
+#### About Me
 <i>15yo, from Denmark, don't really play that much anymore...</i>
 <br>
-<b><u>Setup/Specs</b></u>
+#### Setup/Specs
 <br>
 CPU: <i>AMD Ryzen 7 5800x 8-Core</i>
 <br>
@@ -23,7 +23,7 @@ Headset: <i>Steelseries Artics 7 - Wireless</i>
 Microphone: <i>HyperX Quadcast</i>
 <br>
 
-<b><u>Socials</b></u>
+#### Socials
 <br>
 Steam: <i>[Click here](https://steamcommunity.com/id/L1GHT1DK/)</i>
 <br>
