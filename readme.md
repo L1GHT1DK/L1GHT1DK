@@ -3,7 +3,6 @@
 <br>
 <br>
 ### About Me
-<br>
 <i>15yo, from Denmark, don't really play that much anymore...</i>
 <br>
 <b><u>Setup/Specs</b></u>
