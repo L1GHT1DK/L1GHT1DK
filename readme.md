@@ -1,11 +1,11 @@
-## Welcome, I'm L1GHT
+# Welcome, I'm L1GHT
 <a href="https://l1ght1dk.github.io/"><img src="https://img.shields.io/badge/-Website-ff00ff?style=flat&logo=CodeSandbox&logoColor=white"/></a>
 <br>
 
-### About Me
+## About Me
 <i>15yo, from Denmark, don't really play that much anymore...</i>
 
-### Setup/Specs
+## Setup/Specs
 CPU: <i>AMD Ryzen 7 5800x 8-Core</i>
 <br>
 GPU: <i>AMD Radeon RX 6700 XT</i>
@@ -22,7 +22,7 @@ Headset: <i>Steelseries Artics 7 - Wireless</i>
 Microphone: <i>HyperX Quadcast</i>
 <br>
 
-### Socials
+## Socials
 Steam: <i>[Click here](https://steamcommunity.com/id/L1GHT1DK/)</i>
 <br>
 Twitch: <i>[Click here](https://www.twitch.tv/l1ght1dk)</i>
