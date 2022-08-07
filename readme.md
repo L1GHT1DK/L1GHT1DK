@@ -27,10 +27,6 @@ Steam: <i>[Click here](https://steamcommunity.com/id/L1GHT1DK/)</i>
 <br>
 Twitch: <i>[Click here](https://www.twitch.tv/l1ght1dk)</i>
 <br>
-Instragram: <i>[Click here](https://www.instagram.com/viktor_kjaer06/)</i>
-<br>
-Facebook: <i>[Click here](https://www.facebook.com/profile.php?id=100015669614602)</i>
-<br>
 Discord: <i>L1GHT#4003</i>
 
 ## Misc
